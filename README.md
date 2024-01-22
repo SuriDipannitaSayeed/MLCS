@@ -1,6 +1,6 @@
 # MLCS
 
-The Implementation is inspired by the method discussed in the paper below.
+The Implementation gives the theoretical justification of the method discussed in the paper below.
 # Running command
 
 ```bash
